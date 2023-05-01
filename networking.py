@@ -7,7 +7,7 @@ import time, utime
 import struct
 
 ssid = 'MayzieNet'
-password = 'Alexander5'
+password = '555'
 ip_str = ""
 rtc = machine.RTC()
 
